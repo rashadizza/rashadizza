@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Node JS**
 
-- 📝 I regularly write articles on [rashadizza.github.io](rashadizza.github.io)
-
 - 💬 Ask me about **html, css, sql, php,**
 
 - 📫 How to reach me **rashadizza@gmail.com**
