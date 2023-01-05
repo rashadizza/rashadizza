@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rashad Izza Andredi</h1>
+<h1 align="center">Hi 👋, I'm Rashad Izza</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 
 - 🔭 I’m a student at **Telkom University**
