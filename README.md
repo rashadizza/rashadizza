@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Node JS**
 
-- 💬 Ask me about **html, css, sql, php,**
+- 💬 Ask me about **js and php**
 
-- 📫 How to reach me **rashadizza@gmail.com**
+- 📫 How to reach me **contact@rashad.world**
 
-- 📄 Know about my experiences [rashadizza.github.io](rashadizza.github.io)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
