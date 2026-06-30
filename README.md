@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rashad Izza</h1>
-<h3 align="center">A passionate backend developer from Indonesia</h3>
+<h3 align="center">A passionate prompt engineering from Indonesia😶‍🌫️</h3>
 
 - 🔭 I’m a student at **Telkom University**
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **Cybersec**
 
-- 💬 Ask me about **js and php**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **contact@rashad.world**
 
