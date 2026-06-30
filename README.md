@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rashad</h1>
-<h3 align="center">A passionate prompt engineering from Indonesia😶‍🌫️</h3>
+<h3 align="center">A passionate prompt engineer from Indonesia😶‍🌫️</h3>
 
 - 🔭 I’m a student at **Telkom University**
 
